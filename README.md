@@ -1,5 +1,6 @@
 # CodeRe-Group4
 
-Code sebelum di refactor ada pada branch Unrefactored Code
+Code terletak pada folder yang tertera
 
-Code sesudah di refactor ada di branch Finished / Refactored Code
+Code sebelum di refactor pada folder Unrefactored Codes 
+Code setelah di refactor pada folder Refactored Codes
